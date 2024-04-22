@@ -1,0 +1,8 @@
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\WebAPI\obj\Debug\net7.0\WebAPI.RazorAssemblyInfo.cs

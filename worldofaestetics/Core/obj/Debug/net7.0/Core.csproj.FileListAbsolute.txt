@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\VS BACKEND\worldofaestetics\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache

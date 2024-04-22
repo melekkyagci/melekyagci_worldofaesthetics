@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01A03AF6-A42B-4046-B3EE-951395052567}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\consoleui\\consoleui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{01A03AF6-A42B-4046-B3EE-951395052567}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\consoleui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|c:\\users\\acer\\desktop\\vs backend\\worldofaestetics\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB26A52-9B54-4930-9B8A-5BA3CC264F41}|Business\\Business.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEB26A52-9B54-4930-9B8A-5BA3CC264F41}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321B0201-0176-418D-8786-1416F9926125}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{321B0201-0176-418D-8786-1416F9926125}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5B7968-8EBC-41DA-B1FA-4D9B0B4F3EF4}|Entities\\Entities.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC5B7968-8EBC-41DA-B1FA-4D9B0B4F3EF4}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6027218-954A-4BFC-90DE-F51F5D946A4B}|Core\\Core.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A6027218-954A-4BFC-90DE-F51F5D946A4B}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A03AF6-A42B-4046-B3EE-951395052567}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\acer\\source\\repos\\worldofaestetics\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A03AF6-A42B-4046-B3EE-951395052567}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB26A52-9B54-4930-9B8A-5BA3CC264F41}|Business\\Business.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Business\\Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEB26A52-9B54-4930-9B8A-5BA3CC264F41}|Business\\Business.csproj|solutionrelative:Business\\Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\CalisanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\Controllers\\CalisanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\RandevuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\Controllers\\RandevuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\KullanicilarControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\Controllers\\KullanicilarControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\YorumlarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76C2E56-93AA-4B30-A958-504902825FD5}|WebAPI\\WebAPI.csproj|solutionrelative:WebAPI\\Controllers\\YorumlarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebAPI.csproj.user",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj.user",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj.user",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj.user",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-22T19:07:39.182Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleUI",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\ConsoleUI\\ConsoleUI.csproj",
-              "RelativeDocumentMoniker": "ConsoleUI\\ConsoleUI.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\ConsoleUI\\ConsoleUI.csproj",
-              "RelativeToolTip": "ConsoleUI\\ConsoleUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T20:44:03.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Core",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj",
-              "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj",
-              "RelativeToolTip": "Core\\Core.csproj",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T20:44:01.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:44:52.665Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T19:06:36.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DataAccess",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T17:38:13.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Business",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Business\\Business.csproj",
-              "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Business\\Business.csproj",
-              "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T17:36:23.767Z",
-              "EditorCaption": ""
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebAPI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebAPI\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-22T19:05:43.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Entities",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Entities\\Entities.csproj",
-              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Entities\\Entities.csproj",
-              "RelativeToolTip": "Entities\\Entities.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:33:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T17:31:13.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T18:32:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T18:20:45.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalisanController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\CalisanController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CalisanController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\CalisanController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CalisanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:32:33.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\RandevuController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\RandevuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:54.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullanicilarControler.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\KullanicilarControler.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\KullanicilarControler.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\KullanicilarControler.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\KullanicilarControler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:31:38.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YorumlarController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\YorumlarController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\YorumlarController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\WebAPI\\Controllers\\YorumlarController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\YorumlarController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:30:22.785Z"
             }
           ]
         }

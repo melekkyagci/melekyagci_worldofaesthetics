@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Business",
+    "\\ConsoleUI",
+    "\\WebAPI",
+    "\\WebAPI\\wwwroot",
+    "\\WebAPI\\wwwroot\\js"
   ],
-  "SelectedNode": "\\worldofaestetics.sln",
   "PreviewInSolutionExplorer": false
 }

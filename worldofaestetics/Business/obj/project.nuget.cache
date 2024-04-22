@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "1pgvNhnlpnboJ4BGJntEFx/AUggney/lc8L2tSEzvrZoBjYwhQrpYnmb0d0of6lN56TK7vUm4KyT5cE964Bdfg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Business\\Business.csproj",
+  "dgSpecHash": "4piiQFykjF8PEK61ojLQ60JlUaDT9HcU1aeczE2XLMOKtUuFpth4dphsglJXRYUO5dF06yi8/lGXBg141ttDkg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Business\\Business.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "DataAccess projesi net6.0 (.NETCoreApp,Version=v6.0) ile uyumlu değil. DataAccess projesi şunları destekler: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "DataAccess",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Entities projesi net6.0 (.NETCoreApp,Version=v6.0) ile uyumlu değil. Entities projesi şunları destekler: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "Entities",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj": {
+    "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\worldofaestetics\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\VS BACKEND\\worldofaestetics\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
